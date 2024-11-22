@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a self-taught developer passionate about building secu
 ---
 
 ## 🚀 Skills & Tools  
-- **Backend Development:** Node.js, TypeScript, REST APIs, Microservices, PHP  
+- **Backend Development:** Node.js, TypeScript, REST APIs, Microservices, Java  
 - **Web3 Technologies:** Solidity, Smart Contracts, dApps, Blockchain  
 - **Cybersecurity:** Ethical Hacking, Web Security, API Security  
 - **Other Tools:** MySQL, MongoDB, Docker, Git  
