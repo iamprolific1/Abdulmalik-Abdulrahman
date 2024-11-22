@@ -1,6 +1,27 @@
-- 👋 Hi, I’m Malik. I'm a backend software engineer with strong front-end skills. But my true passion lies in backend development.
-- Ready to connect and collaborate with fellow developers
-- Here's the repository to all my projects.
-- Hope you find them interesting.
-- let's connect 😇
+# 👋 Hi, I'm Abdulmalik Abdulrahman  
+**Backend Engineer | Web3 Enthusiast | Cybersecurity Advocate**  
 
+Welcome to my GitHub! I'm a self-taught developer passionate about building secure, scalable systems, exploring blockchain technologies, and advancing my cybersecurity skills.  
+
+---
+
+## 🚀 Skills & Tools  
+- **Backend Development:** Node.js, TypeScript, REST APIs, Microservices, PHP  
+- **Web3 Technologies:** Solidity, Smart Contracts, dApps, Blockchain  
+- **Cybersecurity:** Ethical Hacking, Web Security, API Security  
+- **Other Tools:** MySQL, MongoDB, Docker, Git  
+
+---
+
+## 📂 Featured Projects  
+Here are a few projects that showcase my expertise:  
+
+- [**Secure API Backend**](#): Built a secure RESTful API with JWT authentication and role-based access control.  
+- [**Token Smart Contract**](#): (project on progress).
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://linkedin.com/in/iamprolific1)  
+- [Email](mailto:abdulmalikabdulrahman76@gmail.com)  
+- [Portfolio](#) *(Coming Soon)*  
